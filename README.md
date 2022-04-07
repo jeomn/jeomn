@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=JIMIN%20JEONG&fontSize=50)
+
 ### Hi there, I'm Ji-min Jeong👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeomn&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
